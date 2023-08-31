@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-accordion-hr/static/css/main.4d58f91c.css",
+    "main.js": "/react-accordion-hr/static/js/main.9dbbf39b.js",
+    "index.html": "/react-accordion-hr/index.html",
+    "static/media/arrow-icon.svg": "/react-accordion-hr/static/media/arrow-icon.59267ba2af9d7325df59218015e3291e.svg",
+    "main.4d58f91c.css.map": "/react-accordion-hr/static/css/main.4d58f91c.css.map",
+    "main.9dbbf39b.js.map": "/react-accordion-hr/static/js/main.9dbbf39b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d58f91c.css",
+    "static/js/main.9dbbf39b.js"
+  ]
+}
