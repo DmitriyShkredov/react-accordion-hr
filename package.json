@@ -1,7 +1,7 @@
 {
   "name": "react-horisontal-accordion",
   "version": "0.1.0",
-  "homepage": "https://dmitriyshkredov.github.io/react-horisontal-accordion",
+  "homepage": "https://dmitriyshkredov.github.io/react-accordion-hr",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
