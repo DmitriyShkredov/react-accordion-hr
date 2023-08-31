@@ -1,8 +1,8 @@
-# React-horisontal-accordion
+# React-accordion-hr
 
-### `Demo:` https://dmitriyshkredov.github.io/react-horisontal-accordion/
+### `Demo:` https://dmitriyshkredov.github.io/react-accordion-hr/
 
-### `git clone https://github.com/DmitriyShkredov/react-horisontal-accordion.git`
+### `git clone https://github.com/DmitriyShkredov/react-accordion-hr.git`
 
 ### `npm install`
 
