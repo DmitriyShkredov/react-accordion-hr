@@ -7,17 +7,17 @@ export const AccordionHr = ({ list }) => {
 
   return (
     <ul className="accordion-hr">
-      {list &&
-        list.length > 0 &&
-        list.map((item, id) => (
+      {list.map((item, id) => {
+        return (
           <AccordionHrItem
             onClick={() => setId(id)}
             item={item}
             isOpen={id === openId}
-            key={id}
             length={list.length}
+            key={id}
           />
-        ))}
+        );
+      })}
     </ul>
   );
 };
