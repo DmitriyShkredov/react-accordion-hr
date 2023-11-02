@@ -2,7 +2,7 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-accordion-hr/
 
-#### `Telegram:` [https://t.me/tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
+#### `Telegram:` [https://t.me/tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik/22)
 
 #### `Youtube:` [Как создать горизонтальный Аккордеон Компонент в React JS](https://youtu.be/Khlyl5kyNek)
 
