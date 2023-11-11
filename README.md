@@ -1,4 +1,4 @@
-## React JS создаем горизонтальный Аккордеон Компонент
+## React JS создаем горизонтальный Аккордеон компонент
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-accordion-hr/
 
